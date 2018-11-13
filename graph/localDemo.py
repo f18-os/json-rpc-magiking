@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from node import *
 
 leaf1 = node("leaf1")
